@@ -20,9 +20,9 @@ f w,b(x) = wx + b
 f(x) = wx + b short form
 Univariate = 1 variable 
 
-
-
-
-
-
 ![Screenshot 2024-10-03 173006](https://github.com/user-attachments/assets/3560bbbb-90cd-42ab-9311-08d6105e3262)
+
+
+w value = the Slope (Steigung)
+![image](https://github.com/user-attachments/assets/60b67bcb-7d76-4428-989f-c38917220691)
+
