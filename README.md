@@ -26,3 +26,9 @@ Univariate = 1 variable
 w value = the Slope (Steigung)
 ![image](https://github.com/user-attachments/assets/60b67bcb-7d76-4428-989f-c38917220691)
 
+
+- Cost Function
+
+- ![image](https://github.com/user-attachments/assets/5d5efcac-f1da-45ab-8907-7ac733f3941c)
+
+
