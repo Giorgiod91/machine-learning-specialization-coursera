@@ -5,3 +5,5 @@ I'm currently enrolled in the [Machine Learning Specialization](https://www.cour
 - supervised Learning ---> gives the learning algorithm examples to learn on with correct answers   -->  input x to output y
   - types = Regression leanrs to predict number out of infinite possible numbers
           = Classification predict categories dont have to be numbers for example pictures small limited set of possible output categories like 0 and 1 and so on
+
+- unsupervised Learning ---> finding structures Clustering groups categories without giving any output y only with the input x
