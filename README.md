@@ -37,4 +37,6 @@ w value = the Slope (Steigung)
 
 
 - each value of w will point to a single point to the J(w)
-  ![image](https://github.com/user-attachments/assets/fcb031f2-3909-4fe6-a64a-09118892d224)
+- for example if w = 1 u can see the fw(x) line on the left that will point to a single point on the J(w) on the right
+![image](https://github.com/user-attachments/assets/03ef9bb0-2202-48e2-aeaa-04bdde6dacec)
+
