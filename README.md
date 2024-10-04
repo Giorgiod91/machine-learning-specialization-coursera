@@ -28,7 +28,13 @@ w value = the Slope (Steigung)
 
 
 - Cost Function
+- measures the difference between the models predictions and the actual values
 
 - ![image](https://github.com/user-attachments/assets/5d5efcac-f1da-45ab-8907-7ac733f3941c)
 
+- simplified version
+- b is set to 0
 
+
+- each value of w will point to a single point to the J(w)
+  ![image](https://github.com/user-attachments/assets/fcb031f2-3909-4fe6-a64a-09118892d224)
