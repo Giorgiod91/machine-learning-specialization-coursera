@@ -28,6 +28,7 @@ w value = the Slope (Steigung)
 
 
 - Cost Function
+- The cost is a measure of how accurate the model is on the training data.
 - measures the difference between the models predictions and the actual values
 
 - ![image](https://github.com/user-attachments/assets/5d5efcac-f1da-45ab-8907-7ac733f3941c)
