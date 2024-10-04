@@ -37,6 +37,14 @@ w value = the Slope (Steigung)
 
 
 - each value of w will point to a single point to the J(w)
-- for example if w = 1 u can see the fw(x) line on the left that will point to a single point on the J(w) on the right
+- for example if w = 1 u can see the fw(x) line on the left that will point to a single point on the graph of  J(w) on the right
 ![image](https://github.com/user-attachments/assets/03ef9bb0-2202-48e2-aeaa-04bdde6dacec)
+
+- goal of linear regression minimize J(w)
+- genreal case minimize J(w,b)
+- The goal of linear regression is to find the parameters w or w and b that results in the smallest possible value for the cost function J
+![image](https://github.com/user-attachments/assets/15296142-e479-4e9a-81c1-b6a6b1753927)
+
+-visualize cost function 
+- u can visualize the 3d plot also as a 2d contour plot
 
