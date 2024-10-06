@@ -49,3 +49,12 @@ w value = the Slope (Steigung)
 -visualize cost function 
 - u can visualize the 3d plot also as a 2d contour plot
 
+- gradient descent algorithm
+- start with  (w =0, b=0)
+- keep changing w,b to reduce j(w.b) to a minimum
+- it is possible for there to be more than one possible minimum
+- update Simultaneous
+- the alpa symbol is the learning rate (The learning rate controls how big of a step you take when updating the model's parameters, w and b)
+- ![image](https://github.com/user-attachments/assets/555bd699-d096-4e50-86e2-63d048fc30df)
+
+  
