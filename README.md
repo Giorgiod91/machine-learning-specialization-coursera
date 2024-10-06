@@ -55,6 +55,13 @@ w value = the Slope (Steigung)
 - it is possible for there to be more than one possible minimum
 - update Simultaneous
 - the alpa symbol is the learning rate (The learning rate controls how big of a step you take when updating the model's parameters, w and b)
+- if alpha the learning rate is too small it the gradient decent will work but it may be slow !
+- if alpha is too large  gradient decent may overshoot and never reach the minimum
+- if the values starts at the minumum the gradient decent steps will do nothing it keeps the solution at the local minimum
+- can reach local minum with fixed learning rate alpha
+- near a local minumum the derivate becomes smaller that means the update steps will also get smaller
+- convex function is bowl shaped and can only have one global minumum
+- batch gradient descent  batch because each step of gradient descent uses all the training examples
 - ![image](https://github.com/user-attachments/assets/555bd699-d096-4e50-86e2-63d048fc30df)
 
   
