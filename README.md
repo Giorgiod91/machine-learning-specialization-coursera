@@ -96,5 +96,23 @@ w value = the Slope (Steigung)
 
 
 
+# Rescaling features x1 x2 to find a much more direct path to the globa minumum
+
+![image](https://github.com/user-attachments/assets/085309d1-4ceb-475c-b534-c09c39283f48)
+
+
+# ways to rescale features
+
+![image](https://github.com/user-attachments/assets/2c6214c3-0699-4c30-ab45-b44867e75895)
+
+
+- Mean normalization
+![image](https://github.com/user-attachments/assets/e8b75f0d-c7c9-4476-99e9-1cfe830355bb)
+
+
+
+
+
+
 
   
