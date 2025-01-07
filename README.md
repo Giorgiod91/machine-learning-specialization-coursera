@@ -82,6 +82,19 @@ w value = the Slope (Steigung)
 
 
 
+# Gradient descent for multiple regression
+-
+-
+
+![image](https://github.com/user-attachments/assets/9359cffd-7b07-48f9-a171-a1291b79f50a)
+
+
+
+# Notation
+
+![Screenshot 2025-01-07 184731](https://github.com/user-attachments/assets/1f032505-be4c-42e9-be3b-d8e06b3f5457)
+
+
 
 
   
