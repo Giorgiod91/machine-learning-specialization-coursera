@@ -68,5 +68,14 @@ w value = the Slope (Steigung)
 
 ![image](https://github.com/user-attachments/assets/7ee14020-8b31-4c22-a0b6-0443be672796)
 
+ 
+# Vectorization with python
+
+-numpy 
+- fw,b(x) = w (dot) x + b (math)  /////   f = np.dot(w,x) + b (python)
+
+![image](https://github.com/user-attachments/assets/cf9a35ff-1707-47cf-a603-58b216e0a5c6)
+
+
 
   
