@@ -73,6 +73,8 @@ w value = the Slope (Steigung)
 
 -numpy 
 - fw,b(x) = w (dot) x + b (math)  /////   f = np.dot(w,x) + b (python)
+- makes code shorter
+- uses paralel hardware
 
 ![image](https://github.com/user-attachments/assets/cf9a35ff-1707-47cf-a603-58b216e0a5c6)
 
