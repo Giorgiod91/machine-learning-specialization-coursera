@@ -78,6 +78,10 @@ w value = the Slope (Steigung)
 
 ![image](https://github.com/user-attachments/assets/cf9a35ff-1707-47cf-a603-58b216e0a5c6)
 
+![image](https://github.com/user-attachments/assets/58e8d7be-cd42-4f12-b6d4-b495ccd21b2f)
+
+
+
 
 
   
