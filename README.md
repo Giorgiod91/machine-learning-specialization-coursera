@@ -64,4 +64,9 @@ w value = the Slope (Steigung)
 - batch gradient descent  batch because each step of gradient descent uses all the training examples
 - ![image](https://github.com/user-attachments/assets/555bd699-d096-4e50-86e2-63d048fc30df)
 
+# multiple linear regression
+
+![image](https://github.com/user-attachments/assets/7ee14020-8b31-4c22-a0b6-0443be672796)
+
+
   
