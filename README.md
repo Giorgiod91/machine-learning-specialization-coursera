@@ -106,8 +106,18 @@ w value = the Slope (Steigung)
 ![image](https://github.com/user-attachments/assets/2c6214c3-0699-4c30-ab45-b44867e75895)
 
 
-- Mean normalization
+# Mean normalization
 ![image](https://github.com/user-attachments/assets/e8b75f0d-c7c9-4476-99e9-1cfe830355bb)
+
+
+# Z-score normalization
+![image](https://github.com/user-attachments/assets/87117da6-0772-4dbf-ab0b-edabb05c793e)
+
+# goals for rescaling 
+- aim to get  value from  -1 to +1 for Xj ( for each feature)
+- examples
+  ![image](https://github.com/user-attachments/assets/358d3325-5202-4adc-9f72-30caac51c77f)
+
 
 
 
