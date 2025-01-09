@@ -118,6 +118,20 @@ w value = the Slope (Steigung)
 - examples
   ![image](https://github.com/user-attachments/assets/358d3325-5202-4adc-9f72-30caac51c77f)
 
+# check if Gradien descent works 
+- the cost J should decrease after every single iteration
+
+# choosing the right learning rate
+- Learning rate alpha
+- if J inscreases even with a small aplha learning rate that means there is a bug somewhere
+- picking a really small number for alpha is not good for learning its more a debug step to see if J decreases
+- reason is that if learning rate is too small the gradient descent will take a lot of iterations to converge
+- increase learning rate by 3Times at a step
+
+
+![image](https://github.com/user-attachments/assets/41e5c705-2f01-464e-97d4-538300139bba)
+
+![image](https://github.com/user-attachments/assets/b3e96765-5af5-449e-be8c-6441dc3c86c9)
 
 
 
