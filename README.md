@@ -2,6 +2,10 @@
 I'm currently enrolled in the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction#outcomes), which covers a range of foundational machine learning topics.
 noting things i learn here.
 
+# other sources i use to keep up with the math 
+- https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2     ---> Essence of linear algebra
+- https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2     ---> Essence of calculus
+
 
 - supervised Learning ---> gives the learning algorithm examples to learn on with correct answers   -->  input x to output y
   - types = Regression leanrs to predict number out of infinite possible numbers
