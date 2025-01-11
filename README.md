@@ -138,9 +138,28 @@ w value = the Slope (Steigung)
 ![image](https://github.com/user-attachments/assets/b3e96765-5af5-449e-be8c-6441dc3c86c9)
 
 
+# Logistic regression model
+- it inputs  features X and outputs a number between 0 and 1
+
+![image](https://github.com/user-attachments/assets/158ec983-e1f3-4bcf-bb0e-9b6de47331c8)
 
 
 
 
+# sigmoid function also known as logistic function
+![image](https://github.com/user-attachments/assets/4ce4eb06-c776-4447-9cae-0096421b2182)
+![image](https://github.com/user-attachments/assets/7da08a12-dd15-4114-b249-1409d9455db5)
 
-  
+# sigmoid function in python
+def sigmoid(z):
+  g = 1/(1+np.exp(-z))
+
+  return g
+
+- exp() is a numpy function to calculate the exponential
+
+# decision boundary
+-  w⋅x+b=0
+-  if w⋅x+b=0   >0    ===> y= 1
+-  if w⋅x+b=0   <0    ===> y= 0
+
