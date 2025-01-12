@@ -6,7 +6,9 @@ noting things i learn here.
 - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2     ---> Essence of linear algebra
 - https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2     ---> Essence of calculus
 
-
+# other sources 
+- https://www.youtube.com/watch?v=VMj-3S1tku0 Andrej Karpathy about neural networks
+- 
 - supervised Learning ---> gives the learning algorithm examples to learn on with correct answers   -->  input x to output y
   - types = Regression leanrs to predict number out of infinite possible numbers
           = Classification predict categories dont have to be numbers for example pictures small limited set of possible output categories like 0 and 1 and so on
