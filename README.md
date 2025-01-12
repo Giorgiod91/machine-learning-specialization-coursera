@@ -179,5 +179,7 @@ def sigmoid(z):
 - at first it look smiliar to the normal linear regression but this time the f(x) function changed see picture
 - ![image](https://github.com/user-attachments/assets/9e6c7e26-90a6-4ef9-a405-11a3f309585c)
 
-
-
+# algorithm can be underfit, just right, overfit
+- goal is to generalize well so it predicts good even with brand new examples
+- overfit  ---> doing very well on the training data but will do poorly on new examples   (too many features)
+- underfit ---> not enough features
