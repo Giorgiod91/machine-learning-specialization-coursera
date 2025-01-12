@@ -181,5 +181,10 @@ def sigmoid(z):
 
 # algorithm can be underfit, just right, overfit
 - goal is to generalize well so it predicts good even with brand new examples
-- overfit  ---> doing very well on the training data but will do poorly on new examples   (too many features)
+- overfit  ---> doing very well on the training data but will do poorly on new examples   (too many features) fix: 1 option is to get more data or use fewer features or reduze size of parameters instead of removing them 
 - underfit ---> not enough features
+
+# regularization term
+- if lambda is very large it will end up in a horizontal straight line and underfits
+- if lamda 0 ---> overfit
+![image](https://github.com/user-attachments/assets/e2212c1c-c904-4a49-b691-c3147d999de4)
