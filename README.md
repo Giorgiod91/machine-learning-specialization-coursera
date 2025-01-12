@@ -169,3 +169,15 @@ def sigmoid(z):
 -  if w⋅x+b=0   >0    ===> y= 1
 -  if w⋅x+b=0   <0    ===> y= 0
 
+# Logistic regression cost function
+
+![image](https://github.com/user-attachments/assets/7c03e72f-158f-4a57-8deb-4b4d641e6968)
+
+
+
+# gradient descent for logistic regression
+- at first it look smiliar to the normal linear regression but this time the f(x) function changed see picture
+- ![image](https://github.com/user-attachments/assets/9e6c7e26-90a6-4ef9-a405-11a3f309585c)
+
+
+
