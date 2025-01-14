@@ -199,3 +199,6 @@ def sigmoid(z):
 ![image](https://github.com/user-attachments/assets/13a9c43f-be92-481d-87e4-35ea565fbe9c)
 
 
+# Expression used to compute the gradient in regularized linear regression
+
+![image](https://github.com/user-attachments/assets/f16582f1-c91d-402a-ab87-6141d5a2850d)
