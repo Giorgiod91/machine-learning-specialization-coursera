@@ -188,3 +188,14 @@ def sigmoid(z):
 - if lambda is very large it will end up in a horizontal straight line and underfits
 - if lamda 0 ---> overfit
 ![image](https://github.com/user-attachments/assets/e2212c1c-c904-4a49-b691-c3147d999de4)
+
+
+
+# gradient descent
+- 
+![image](https://github.com/user-attachments/assets/6977349b-eb77-420d-9620-1bc7722afd8d)
+
+- so what regularization does here is in that term that we multiply m on every iteration by a number close and below 1 that will shrink the value 
+![image](https://github.com/user-attachments/assets/13a9c43f-be92-481d-87e4-35ea565fbe9c)
+
+
