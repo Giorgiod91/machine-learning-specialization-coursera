@@ -2,6 +2,9 @@
 I'm currently enrolled in the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction#outcomes), which covers a range of foundational machine learning topics.
 noting things i learn here.
 
+
+# currently finishing second part ---> https://github.com/Giorgiod91/Advanced-Learning-Algorithms
+
 # other sources i use to keep up with the math 
 - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2     ---> Essence of linear algebra
 - https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2     ---> Essence of calculus
